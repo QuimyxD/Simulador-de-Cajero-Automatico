@@ -59,5 +59,8 @@ Para ingresar y operar en la interfaz del cajero automático, utiliza las siguie
 - **Retiros:** Selección de cuenta de origen y montos predefinidos ($5, $10, $20, $50, $100, $200, $500) o monto personalizado.
 - **Transferencias:** Envío de fondos a otros usuarios registrados.
 - **Historial:** Registro continuo de todas las operaciones realizadas durante la sesión.
+```
 └──Cajero automatico/                    # Carpeta main
     |── Simulador cajero automatico.py/  # CódigoMain.py
+    |__ README.md
+```
